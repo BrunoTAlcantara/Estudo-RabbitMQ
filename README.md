@@ -1,4 +1,4 @@
-# RabbitMQ-Estudo
+# RabbitMQ
 
 Repositório para estudo de integração entre **produtor** e **consumidor** utilizando RabbitMQ.
 
