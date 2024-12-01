@@ -14,7 +14,7 @@ Este projeto demonstra o funcionamento de um sistema baseado em **mensageria** c
 - **Spring Boot** (Producer e Consumer)
 - **RabbitMQ**
 - **Docker/Docker Compose**
-- **Kotlin** ou **Java** (dependendo do módulo)
+- **Kotlin** 
 
 ---
 
